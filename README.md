@@ -11,6 +11,8 @@
 3.需要快速隐蔽电脑屏幕，有私密性要求的人员。
 
 ## 🧑‍💻使用方法
+下载到release里下载整个的压缩包
+
 win+R 按键打开输入shell:startup
 
 ![image](https://github.com/user-attachments/assets/90ebb0c3-a73d-4f76-acbe-49b993631423)
@@ -25,7 +27,8 @@ win+R 按键打开输入shell:startup
 
 不追求花哨的设置面板
 
-![image](https://github.com/user-attachments/assets/14015192-227a-4da6-a81e-884fc115da8c)
+![屏幕截图 2025-02-06 115831](https://github.com/user-attachments/assets/43540aaf-e586-46f8-8296-a63b0c046e48)
+
 
 使用视频
 
